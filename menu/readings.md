@@ -12,7 +12,7 @@ title: Readings
 ## Session 3
 <a href="../assets/pdf/YarkoniWestfall2017.pdf">Yarkoni, T., & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. Perspectives on Psychological Science, 12(6), 1100–1122.</a>
 
-## Further readings
+## Optional readings
 
 <b>Inferential statistics</b>
 <ul>

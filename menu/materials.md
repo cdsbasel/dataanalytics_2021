@@ -41,7 +41,7 @@ title: Materials
 </table>
 
 
-## Session 2: Statistical modeling & machine learning
+## Session 2: Machine learning
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -63,6 +63,17 @@ title: Materials
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/intro_lme4.html">R intro</a>
     </td>
   </tr>
+</table>
+
+## Session 3: Machine learning
+
+<table cellspacing="0" cellpadding="0">
+  <col width="10%">
+  <col width="30%">
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
+  </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
     <td style="padding-right:6px;padding-bottom:6px">
@@ -77,6 +88,7 @@ title: Materials
     </td>
   </tr>
 </table>
+
 
 ### Home exercises
 
@@ -97,7 +109,7 @@ title: Materials
       Answer the question at the bottom of the Simpson's paradox practical and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
-      May 3, 2020
+      tba
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox_solution.html">practical (incl. solution)</a>
@@ -111,7 +123,7 @@ title: Materials
       Complete the practical and send the associated code with comments to <a href="mailto:dirk.wulff@unibas.ch"><b>Dirk</b>.</a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
-      May 10, 2020
+      tba
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>  

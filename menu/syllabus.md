@@ -35,6 +35,10 @@ td {
 </style>
 
 <table cellspacing="0" cellpadding="0">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="40%">
 <tr>
   <td style="text-align:center"><b>Session</b></td>
   <td style="text-align:center"><b>Date</b></td>
@@ -73,7 +77,7 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">6</td>
-  <td style="text-align:center">28.05.2021</td>
+  <td style="text-align:center">21.05.2021</td>
   <td style="text-align:center">9am - 4pm</td>
   <td>Student presentations; meet-the-expert event</td>
 </tr>

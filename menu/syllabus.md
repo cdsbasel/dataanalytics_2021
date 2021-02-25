@@ -68,13 +68,13 @@ td {
   <td style="text-align:center">4</td>
   <td style="text-align:center">23.04.2021</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics/menu/projects.html">Project meetings</a></td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2021/menu/projects.html">Project meetings</a></td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
   <td style="text-align:center">07.05.2021</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics/menu/projects.html">Project meetings</a></td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2021/menu/projects.html">Project meetings</a></td>
 </tr>
 <tr>
   <td style="text-align:center">6</td>

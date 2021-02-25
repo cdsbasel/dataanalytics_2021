@@ -41,7 +41,7 @@ title: Materials
 </table>
 
 
-## Session 2: Machine learning
+## Session 2: Statistical modeling
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">

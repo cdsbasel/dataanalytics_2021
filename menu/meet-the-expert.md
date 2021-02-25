@@ -19,6 +19,4 @@ title: Please read before entering webinar
 
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
 
-#### (will be updated)
-
-<img src="../assets/img/DataAnalytics_MeetTheExpert_March15.png">‚
+#### More information soon!

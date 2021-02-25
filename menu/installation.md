@@ -3,7 +3,7 @@ layout: page
 title: Installation instructions
 ---
 
-You will need to bring a laptop for this course to work on data analytics practicals in R. Prior to the first session on Friday, Feb 21, please follow the instructions to install all necessary software and complete the preparatory assignment in R Swirl.
+You will need to bring a laptop for this course to work on data analytics practicals in R. Prior to the first session on Friday, March 12, please follow the instructions to install all necessary software and complete the preparatory assignment in R Swirl.
 
 If you cannot bring a laptop to the course please let us know asap.
 

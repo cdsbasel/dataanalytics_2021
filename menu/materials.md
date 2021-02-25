@@ -15,33 +15,33 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="../assets/pdf/dataanalyics_FS2020_session1.pdf">slides</a>
+      <a href="">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">RStudio</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://raw.githubusercontent.com/cdsbasel/dataanalytics_rsessions/master/dataanalytics_data.zip">Download data</a>
+      <a href="">Download data</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Wrangling</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/Wrangling/Wrangling.html">slides</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/Wrangling/Wrangling_practical.html">practical</a>
+      <a href="">slides</a>,
+      <a href="">practical</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Plotting</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/Plotting/Plotting.html">slides</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/Plotting/Plotting_practical.html">practical</a>
+      <a href="">slides</a>,
+      <a href="">practical</a>
     </td>
   </tr>
 </table>
 
 
-## Session 2: Machine learning
+## Session 2: Statistical modeling
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -53,14 +53,14 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Causal inference</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/causalinference.pdf">slides</a>
+      <a href="">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/mixedeffects.pdf">slides</a>.
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/intro_lme4.html">R intro</a>
+      <a href="">slides</a>.
+      <a href="">R intro</a>
     </td>
   </tr>
 </table>
@@ -77,19 +77,19 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/WhatIsML/WhatIsML.html">slides</a>
+      <a href="">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Supervised learning</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning.html">slides</a>,
-      <a href="https://www.dropbox.com/s/oy1qk6ouduys4r9/SupervisedLearning_example.R?dl=1">example</a>
+      <a href="">slides</a>,
+      <a href="">example</a>
     </td>
   </tr>
 </table>
 
-
+<!----
 ### Home exercises
 
 <table cellspacing="0" cellpadding="0">
@@ -130,3 +130,5 @@ title: Materials
     </td>
   </tr>
 </table>
+--->
+

@@ -12,6 +12,7 @@ title: Readings
 ## Session 3
 <a href="../assets/pdf/YarkoniWestfall2017.pdf">Yarkoni, T., & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. Perspectives on Psychological Science, 12(6), 1100–1122.</a>
 
+<!----
 ## Optional readings
 
 <b>Inferential statistics</b>
@@ -38,3 +39,4 @@ title: Readings
   <li><a href="https://vuquangnguyen2016.files.wordpress.com/2018/03/applied-predictive-modeling-max-kuhn-kjell-johnson_1518.pdf">Applied Predictive Modeling, by Max Kuhn & Kjell Johnson</a></li>
   <li><a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">The Elements of Statistical Learning, by Trevor Hastie, Robert Tibshirani, & Jerome Friedman</a></li>
 </ul>
+--->

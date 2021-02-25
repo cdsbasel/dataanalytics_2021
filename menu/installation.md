@@ -3,7 +3,7 @@ layout: page
 title: Installation instructions
 ---
 
-You will need to bring a laptop for this course to work on data analytics practicals in R. Prior to the first session on Friday, March 12, please follow the instructions to install all necessary software and complete the preparatory RStudio Primer tutorial. 
+You will need to bring a laptop for this course to work on data analytics practicals in R. Prior to the first session on Friday, March 12, please follow the instructions to install all necessary software and complete the preparatory RStudio Primer tutorial.
 
 If you cannot bring a laptop to the course please let us know asap.
 
@@ -24,9 +24,10 @@ Use the following links to install the newest versions of Base-R und RStudio.
 For this course we will rely on various R packages that need to be installed. To do this run the following code within your R Console within R Studio.
 
 <font style="font-family: 'Lucida Console', Monaco, monospace;">
-install.packages("tidyerse","caret","rpart","randomforest","e1071","party","partykit",
-                 "glmnet","speff2trial","ISLR","mlbench","fastcluster","cstab","dbscan",
-                 "psych","mclust")
+install.packages("tidyerse","caret","rpart","randomforest","e1071",
+                 "party","partykit","glmnet","speff2trial","ISLR",
+                 "mlbench","fastcluster","cstab","dbscan","psych",
+                 "mclust")
 </font>
 
 Important: to avoid problems during the installation of packages, please enter *n*, when you are asked to install a package from source.

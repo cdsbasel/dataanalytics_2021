@@ -63,6 +63,6 @@ title: Student projects
   </tr>
   <tr>
     <td >21.05.</td>
-    <td>Deliver final presentation<u>s</></td>
+    <td>Deliver final presentation<u>s</u></td>
   </tr>
 </table>

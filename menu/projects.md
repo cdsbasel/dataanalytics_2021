@@ -58,11 +58,11 @@ title: Student projects
     <td>Project meetings</td>
   </tr>
   <tr>
-    <td >07.05. - 28.05.</td>
+    <td >07.05. - 21.05.</td>
     <td>Finalize project and prepare presentation</td>
   </tr>
   <tr>
-    <td >28.05.</td>
+    <td >21.05.</td>
     <td>Deliver final presentation</td>
   </tr>
 </table>

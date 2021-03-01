@@ -24,7 +24,7 @@ Use the following links to install the newest versions of Base-R und RStudio.
 For this course we will rely on various R packages that need to be installed. To do this run the following code within your R Console within R Studio.
 
 <font style="font-family: 'Lucida Console', Monaco, monospace;">
-install.packages("tidyerse","caret","rpart","randomforest","e1071",
+install.packages("tidyerse","caret","rpart","randomForest","e1071",
                  "party","partykit","glmnet","speff2trial","ISLR",
                  "mlbench","fastcluster","cstab","dbscan","psych",
                  "mclust")

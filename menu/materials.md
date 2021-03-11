@@ -5,6 +5,8 @@ title: Materials
 
 ## Session 1: Data exploration
 
+#### <a href="https://www.dropbox.com/s/mpci2brybflwd4d/TheRBootcamp.zip?dl=1">Project</a>
+
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
   <col width="30%">
@@ -15,27 +17,43 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides</a>
+      <a href="https://www.dropbox.com/s/d5mp9oku1t7cxp5/DataViz4Good.zip?dl=1">slides</a>
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">RStudio</td>
+    <td style="padding-right:6px;padding-bottom:6px">Tidyverse intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">Download data</a>
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/Welcome/Welcome.html">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Wrangling</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides</a>,
-      <a href="">practical</a>
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/Wrangling/Wrangling.html">slides</a>
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">Plotting</td>
+    <td style="padding-right:6px;padding-bottom:6px">Ggplot intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides</a>,
-      <a href="">practical</a>
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/Plotting/Plotting.html">slides</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Ggplot styling</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/PlottingII/PlottingII.html">slides</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Maps</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/Maps/Maps.html">slides</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Tidyverse cont'd</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://correlaidswitzerland.github.io/DataViz4Good/_sessions/NextSteps/NextSteps.html">slides</a>
     </td>
   </tr>
 </table>
@@ -131,4 +149,3 @@ title: Materials
   </tr>
 </table>
 --->
-

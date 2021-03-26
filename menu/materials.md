@@ -91,7 +91,10 @@ title: Materials
 <ol>
   <li>Create Github account at: <a href="https://github.com/">https://github.com/</a></li>
   <li>Download Github client at: <a href="https://desktop.github.com/">https://desktop.github.com/</a> (Linux: <a href="https://git-scm.com/download/gui/linux">see this</a>)</li>
-  <li>Clone this repository: <a href="https://github.com/cdsbasel/DataAnalytics4PB">https://github.com/cdsbasel/DataAnalytics4PB</a></li>
+  <li>Open the Github client and sign into your account</li>
+  <li>Fork this repository: <a href="https://github.com/cdsbasel/DataAnalytics4PB">https://github.com/cdsbasel/DataAnalytics4PB</a></li>
+  <li>Clone the forked repository in your Github account from your Github client. The repo address should be "YOURACCOUNTNAME/DataAnalytics4PB"</li>
+  <li>Now you should have a folder called "DataAnalytics4PB" in your </li>
 </ol>
 
 #### <u>Markdown</u>

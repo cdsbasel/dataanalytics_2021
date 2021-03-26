@@ -61,7 +61,7 @@ title: Materials
 
 ## Session 2: Statistical modeling & Markdown
 
-#### <u>Statistical modeling</u>
+#### <i>Statistical modeling</i>
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -86,7 +86,7 @@ title: Materials
 </table>
 
 
-#### <u>GitHub</u>
+#### <i>GitHub</i>
 
 <ol>
   <li>Create GitHub account at: <a href="https://github.com/">https://github.com/</a></li>
@@ -97,7 +97,7 @@ title: Materials
   <li>Now you should have a folder called "DataAnalytics4PB" in your Github folder on your harddrive (e.g., ~/Documents/GitHub)</li>
 </ol>
 
-#### <u>Markdown</u>
+#### <i>Markdown</i>
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">

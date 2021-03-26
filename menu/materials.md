@@ -61,7 +61,7 @@ title: Materials
 
 ## Session 2: Statistical modeling & Markdown
 
-#### Statistical modeling
+#### <u>Statistical modeling</u>
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -86,7 +86,15 @@ title: Materials
 </table>
 
 
-#### Github & Markdown
+#### <u>Github</u>
+
+<ol>
+  <li>Create Github account at: <a href="https://github.com/">https://github.com/</a></li>
+  <li>Download Github client at: <a href="https://desktop.github.com/">https://desktop.github.com/</a> (Linux: <a href="https://git-scm.com/download/gui/linux">see this</a>)</li>
+  <li>Clone this repository: <a href="https://github.com/cdsbasel/DataAnalytics4PB">https://github.com/cdsbasel/DataAnalytics4PB</a></li>
+</ol>
+
+#### <u>Markdown</u>
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -98,23 +106,13 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Markdown intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown.html">slides</a>.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-right:6px;padding-bottom:6px">Github</td>
-    <td style="padding-right:6px;padding-bottom:6px">
-      <ol>
-        <li>Create Github account at: <a href="https://github.com/">https://github.com/</a></li>
-        <li>Download Github client at: <a href="https://desktop.github.com/">https://desktop.github.com/</a> (Linux: <a href="https://git-scm.com/download/gui/linux">see this</a>)</li>
-        <li>Clone this repository: <a href="https://github.com/cdsbasel/DataAnalytics4PB">https://github.com/cdsbasel/DataAnalytics4PB</a></li>
-      </ol>
+      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown.html">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Markdown homework</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown_practical.html">slides</a>.
+      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown_practical.html">slides</a>
     </td>
   </tr>
 </table>

@@ -8,6 +8,7 @@ title: Readings
 
 ## Session 2
 <a href="../assets/pdf/Varian2016.pdf">Varian, H. R. (2016). Causal inference in economics and marketing. Proceedings of the National Academy of Sciences of the United States of America, 113(27), 7310–7315.</a>
+
 <a href="../assets/pdf/VanDePol2009.pdf">van de Pol & Wright (2009). A simple method for distinguishing within- versus between-subject. Animal Behavior, 77, 153-758.</a>
 
 ## Session 3

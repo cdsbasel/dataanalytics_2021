@@ -115,7 +115,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Markdown homework</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown_practical.html">slides</a>
+      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Markdown/Markdown_practical.html">practical</a>
     </td>
   </tr>
 </table>

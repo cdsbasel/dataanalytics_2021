@@ -73,14 +73,15 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Causal inference</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides</a>
+      <a href="../assets/pdf/DataAnalytics_Session2.pdf">slides</a>
     </td>
   </tr>
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides</a>.
-      <a href="">R intro</a>
+      <a href="../assets/pdf/intro_lme4.html">Intro</a>.
+      <a href="../assets/pdf/simpsonsparadox.html">Simpson</a>,
+      <a href="../assets/pdf/simpson.csv">data</a> 
     </td>
   </tr>
 </table>

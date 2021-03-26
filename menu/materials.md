@@ -79,9 +79,9 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="../assets/pdf/intro_lme4.html">Intro</a>.
-      <a href="../assets/pdf/simpsonsparadox.html">Simpson</a>,
-      <a href="../assets/pdf/simpson.csv">data</a> 
+      <a href="../assets/code/intro_lme4.html">Intro</a>.
+      <a href="../assets/code/simpsonsparadox.html">Simpson</a>,
+      <a href="../assets/code/simpson.csv">data</a>
     </td>
   </tr>
 </table>

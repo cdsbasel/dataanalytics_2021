@@ -163,6 +163,28 @@ title: Materials
   </tr>
 </table>
 
+| Name | Description |
+|:-------------|:-------------------------------------|
+| `price` | Price of the house in $. |
+| `bedrooms` | Number of bedrooms.  |
+| `bathrooms` | Number of bathrooms. |
+| `sqft_living` | Square footage of the home. |
+| `sqft_lot` | Square footage of the lot. |
+| `floors` | Total floors (levels) in house. |
+| `waterfront` | House which has a view to a waterfront. |
+| `view` | Has been viewed. |
+| `condition` | How good the condition is (Overall). |
+| `grade` | Overall grade given to the housing unit, based on King County grading system. |
+| `sqft_above` | Square footage of house apart from basement. |
+| `sqft_basement` | Square footage of the basement. |
+| `yr_built` | Built Year. |
+| `yr_renovated` | Year when house was renovated. |
+| `zipcode` | Zip code. |
+| `lat` | Latitude coordinate. |
+| `long` | Longitude coordinate. |
+| `sqft_living15` | Living room area in 2015 (implies some renovations). This might or might not have affected the lotsize area. |
+| `sqft_lot15` | lot-size area in 2015 (implies some renovations). |
+
 <!----
 ### Home exercises
 

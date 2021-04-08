@@ -163,27 +163,30 @@ title: Materials
   </tr>
 </table>
 
-| Name | Description |
+#### <i>College data set description</i>
+
+The data are taken from the `College` dataset in the `ISLR` package. They contain statistics for a large number of US Colleges from the 1995 issue of US News and World Report.
+
+| Variable | Description |
 |:-------------|:-------------------------------------|
-| `price` | Price of the house in $. |
-| `bedrooms` | Number of bedrooms.  |
-| `bathrooms` | Number of bathrooms. |
-| `sqft_living` | Square footage of the home. |
-| `sqft_lot` | Square footage of the lot. |
-| `floors` | Total floors (levels) in house. |
-| `waterfront` | House which has a view to a waterfront. |
-| `view` | Has been viewed. |
-| `condition` | How good the condition is (Overall). |
-| `grade` | Overall grade given to the housing unit, based on King County grading system. |
-| `sqft_above` | Square footage of house apart from basement. |
-| `sqft_basement` | Square footage of the basement. |
-| `yr_built` | Built Year. |
-| `yr_renovated` | Year when house was renovated. |
-| `zipcode` | Zip code. |
-| `lat` | Latitude coordinate. |
-| `long` | Longitude coordinate. |
-| `sqft_living15` | Living room area in 2015 (implies some renovations). This might or might not have affected the lotsize area. |
-| `sqft_lot15` | lot-size area in 2015 (implies some renovations). |
+| `Private` | A factor with levels No and Yes indicating private or public university. |
+| `Apps` | Number of applications received.  |
+| `Accept` | Number of applications accepted. |
+| `Enroll` | Number of new students enrolled. |
+| `Top10perc` | Pct. new students from top 10% of H.S. class. |
+| `Top25perc` | Pct. new students from top 25% of H.S. class. |
+| `F.Undergrad` | Number of fulltime undergraduates. |
+| `P.Undergrad` | Number of parttime undergraduates. |
+| `Outstate` | Out-of-state tuition. |
+| `Room.Board` | Room and board costs. |
+| `Books` | Estimated book costs. |
+| `Personal` | Estimated personal spending. |
+| `PhD` | Pct. of faculty with Ph.D.'s. |
+| `Terminal` | Pct. of faculty with terminal degree. |
+| `S.F.Ratio` | Student/faculty ratio. |
+| `perc.alumni` | Pct. alumni who donate. |
+| `Expend` | Instructional expenditure per student. |
+| `Grad.Rate` | Graduation rate. |
 
 <!----
 ### Home exercises

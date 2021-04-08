@@ -144,19 +144,19 @@ title: Materials
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
+    <td style="padding-right:6px;padding-bottom:6px">ML I</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/ML/Fitting.html">slides</a>
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
+    <td style="padding-right:6px;padding-bottom:6px">ML II</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Prediction/Prediction.html">slides</a>
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
+    <td style="padding-right:6px;padding-bottom:6px">ML III</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Optimization/Optimization.html">slides</a>
     </td>

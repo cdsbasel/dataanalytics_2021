@@ -19,6 +19,6 @@ title: Please read before entering webinar
 
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
 
-ZOOM link will be posted here on April 21st.
+ZOOM link will be posted here May 21st.
 
 <img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/meet_the_expert_flyer_2021.png">

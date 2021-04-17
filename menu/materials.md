@@ -158,7 +158,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">ML III</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/DataAnalytics4PB_2021/_sessions/Optimization/Optimization.html">slides</a>
+      <a href=" ">slides</a>
     </td>
   </tr>
 </table>
@@ -172,7 +172,7 @@ The data are taken from the `College` dataset in the `ISLR` package. They contai
 | `Private` | A factor with levels No and Yes indicating private or public university. |
 | `Apps` | Number of applications received.  |
 | `Accept` | Number of applications accepted. |
-| `Enroll` | Number of new students enrolled. |
+| `Enroll` | Number of new students enrolled. |   
 | `Top10perc` | Pct. new students from top 10% of H.S. class. |
 | `Top25perc` | Pct. new students from top 25% of H.S. class. |
 | `F.Undergrad` | Number of fulltime undergraduates. |

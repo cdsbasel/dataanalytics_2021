@@ -19,6 +19,8 @@ title: Please read before entering webinar
 
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
 
-#### Date: 21.5.2021 
+#### Date: 21.5.2021
 
-#### More information soon!
+ZOOM link is posted here on the date of the event.
+
+<img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/meet_the_expert_flyer_2021">

@@ -21,4 +21,4 @@ title: Please read before entering webinar
 
 ZOOM link will be posted here May 21st.
 
-<img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/meet_the_expert_flyer_2021.png">
+<img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/MeetTheExpert_DAfPB2021.png">

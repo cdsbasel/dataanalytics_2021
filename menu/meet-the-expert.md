@@ -19,6 +19,6 @@ title: Please read before entering webinar
 
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
 
-ZOOM link will be posted here May 21st.
+Please sign up <a href="https://www.eventbrite.com/e/data-analytics-for-psychology-and-business-tickets-152818591521"><b>here</b></a>. 
 
 <img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/MeetTheExpert_DAfPB2021.png">
